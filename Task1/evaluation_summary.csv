@@ -1,0 +1,5 @@
+prompt,json_validity,accuracy
+Prompt 1 (Zero-shot),0.8,0.4
+Prompt 2 (Few-shot),1.0,0.7
+Prompt 3 (CoT),0.5,0.3
+Final (first available p1->p2->p3),1.0,0.4
